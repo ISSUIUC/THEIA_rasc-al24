@@ -8,3 +8,4 @@ calculations include:
 - Power Beaming
 - Breakeven Analysis
 - Gravity Model
+- Time vs Distance Model
